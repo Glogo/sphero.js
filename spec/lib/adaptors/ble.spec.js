@@ -1,6 +1,6 @@
 "use strict";
 
-var ble = require("noble");
+var ble = require("noble-mac");
 
 var Adaptor = lib("adaptors/ble");
 
